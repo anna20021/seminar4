@@ -1,0 +1,15 @@
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.csproj.AssemblyReference.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.AssemblyInfoInputs.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.AssemblyInfo.cs
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.csproj.CoreCompileInputs.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex2/bin/Debug/net6.0/ex2
+/Users/snezanapavalaki/Desktop/seminar4/ex2/bin/Debug/net6.0/ex2.deps.json
+/Users/snezanapavalaki/Desktop/seminar4/ex2/bin/Debug/net6.0/ex2.runtimeconfig.json
+/Users/snezanapavalaki/Desktop/seminar4/ex2/bin/Debug/net6.0/ex2.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex2/bin/Debug/net6.0/ex2.pdb
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/refint/ex2.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.pdb
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ex2.genruntimeconfig.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex2/obj/Debug/net6.0/ref/ex2.dll
