@@ -1,0 +1,15 @@
+/Users/snezanapavalaki/Desktop/seminar4/ex1/bin/Debug/net6.0/ex1
+/Users/snezanapavalaki/Desktop/seminar4/ex1/bin/Debug/net6.0/ex1.deps.json
+/Users/snezanapavalaki/Desktop/seminar4/ex1/bin/Debug/net6.0/ex1.runtimeconfig.json
+/Users/snezanapavalaki/Desktop/seminar4/ex1/bin/Debug/net6.0/ex1.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex1/bin/Debug/net6.0/ex1.pdb
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.csproj.AssemblyReference.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.AssemblyInfoInputs.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.AssemblyInfo.cs
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.csproj.CoreCompileInputs.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/refint/ex1.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.pdb
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex1/obj/Debug/net6.0/ref/ex1.dll
