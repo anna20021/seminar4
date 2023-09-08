@@ -1,0 +1,15 @@
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.csproj.AssemblyReference.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.AssemblyInfoInputs.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.AssemblyInfo.cs
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.csproj.CoreCompileInputs.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex3/bin/Debug/net6.0/ex3
+/Users/snezanapavalaki/Desktop/seminar4/ex3/bin/Debug/net6.0/ex3.deps.json
+/Users/snezanapavalaki/Desktop/seminar4/ex3/bin/Debug/net6.0/ex3.runtimeconfig.json
+/Users/snezanapavalaki/Desktop/seminar4/ex3/bin/Debug/net6.0/ex3.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex3/bin/Debug/net6.0/ex3.pdb
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/refint/ex3.dll
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.pdb
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ex3.genruntimeconfig.cache
+/Users/snezanapavalaki/Desktop/seminar4/ex3/obj/Debug/net6.0/ref/ex3.dll
